@@ -22,8 +22,8 @@
 <div align="center">
  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=owlcoder&locale=en&theme=tokyonight&border=D3D3D300" alt="owlcoder" />
  <br/> <br/>
-  <img src="https://readme-stats-one-iota.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&username=owlCoder" height="150" alt="stats graph"  />&nbsp;
-  <img src="https://readme-stats-one-iota.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&username=owlCoder" height="150" alt="languages graph"  />
+  <img src="https://readme-stats-psh5c7fg8-owlcoder.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&username=owlCoder" height="150" alt="stats graph"  />&nbsp;
+  <img src="https://readme-stats-psh5c7fg8-owlcoder.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&username=owlCoder" height="150" alt="languages graph"  />
 </div>
 
 ###
