@@ -10,12 +10,12 @@
     <thead align="left">
         <tr>
             <th>
-                <a href="https://www.linkedin.com/in/montasim" target="_blank" rel="noopener noreferrer" title="linkedin.com/in/danijelj01">
+                <a href="https://www.linkedin.com/in/danijelj01" target="_blank" rel="noopener noreferrer" title="linkedin.com/in/danijelj01">
                     <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/6a7fc1" width="35px">
                 </a>
             </th>
             <th>
-                <a href="https://www.github.com/montasim" target="_blank" rel="noopener noreferrer" title="github.com/owlCoder">
+                <a href="https://www.github.com/owlCoder" target="_blank" rel="noopener noreferrer" title="github.com/owlCoder">
                     <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/6a7fc1" width="35px">
                 </a>
             </th>
@@ -27,6 +27,7 @@
         </tr>
     </thead>
 </table>
+<br/>
 <br/>
 <br/>
 <br/>
