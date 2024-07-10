@@ -156,7 +156,7 @@ Bachelor with Honours in Electrical and Computer Engineering (B.Elec.Comp.Eng.)<
             <td>
                 <a href="https://www.ftn.uns.ac.rs/" target="_blank" rel="noopener noreferrer">Faculty of Technical Sciences, University of Novi Sad</a>
             </td>
-            <td> 9.60</td>
+            <td> 9.61</td>
             <td> 2024 </td>
         </tr>
     </tbody>
