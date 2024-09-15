@@ -66,14 +66,9 @@
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/typescript" alt="typescript icon"/>
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/javascript/6a7fc1" alt="javascript icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/react" alt="react icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/" alt="nodejs icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/express/424322" alt="express icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/mongodb/" alt="mongodb icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/sass/" alt="sass icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/" alt="tailwindcss icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/" alt="bootstrap icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/html5/" alt="html5 icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/css3/" alt="css3 icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/markdown/123233" alt="markdown icon" />
 </div>
 <br/>
