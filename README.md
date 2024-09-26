@@ -67,7 +67,6 @@
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/javascript/6a7fc1" alt="javascript icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/react" alt="react icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/express/424322" alt="express icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/" alt="tailwindcss icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/markdown/123233" alt="markdown icon" />
 </div>
 <br/>
