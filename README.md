@@ -20,7 +20,7 @@
                 </a>
             </th>
             <th>
-                <a href="mailto:danijelji10a2016@gmail.com" target="_blank" rel="noopener noreferrer" title="danijelji10a2016@gmail.com">
+                <a href="mailto:danijel.jovanovic@uns.ac.rs" target="_blank" rel="noopener noreferrer" title="danijel.jovanovic@uns.ac.rs">
                     <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/6a7fc1" width="35px">
                 </a>
             </th>
