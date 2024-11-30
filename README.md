@@ -32,7 +32,7 @@
 <br/>
 <br/>
 <pre>
-<b>Email     :</b> <a href="danijelji10a2016@gmail.com" target="_blank" rel="noopener noreferrer">danijelji10a2016@gmail.com</a> 
+<b>Email     :</b> <a href="danijel.jovanovic@uns.ac.rs" target="_blank" rel="noopener noreferrer">danijel.jovanovic@uns.ac.rs</a> 
 <b>Portfolio :</b> <a href="https://github.com/owlCoder" target="_blank" rel="noopener noreferrer">owlcoder.com</a>
 <b>GitHub    :</b> <a href="https://github.com/owlCoder" target="_blank" rel="noopener noreferrer">github.com/owlCoder</a>
 </pre>
