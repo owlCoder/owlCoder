@@ -11,7 +11,7 @@
         <tr>
             <th>
                 <a href="https://www.linkedin.com/in/danijelj01" target="_blank" rel="noopener noreferrer" title="linkedin.com/in/danijelj01">
-                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/6a7fc1" width="35px">
+                    <img loading="lazy" alt="linkedin icon" src="https://camo.githubusercontent.com/e9592fd6ea20b888ed3c7621d8c7257835af4f2e7232e92f5db4e9e2e4e91380/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="35px">
                 </a>
             </th>
             <th>
